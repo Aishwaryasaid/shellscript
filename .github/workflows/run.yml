@@ -14,4 +14,4 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Execute Shell Script
-        run: bash ./your-script.sh
+        run: bash ./first-script.sh
